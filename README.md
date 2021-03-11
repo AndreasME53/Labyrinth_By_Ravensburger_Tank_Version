@@ -22,3 +22,12 @@ This is the page after clicking the 'edit player' button:
 This is the page after clicking the 'leaderboard' button:
 ![image](https://user-images.githubusercontent.com/56043339/110835746-1e013400-8297-11eb-98f2-b2d27ae77152.png)
 
+This is the page after clicking the 'new game' button and selecting a level to play:
+![image](https://user-images.githubusercontent.com/56043339/110860619-e73a1680-82b4-11eb-8f91-6d1e380936db.png)
+
+here you and a max of 4 friends cselect your tanks and prepare to play the game
+
+In game imagers:
+![image](https://user-images.githubusercontent.com/56043339/110860796-223c4a00-82b5-11eb-8aac-62bd413fcde3.png)
+
+![image](https://user-images.githubusercontent.com/56043339/110860330-8ad6f700-82b4-11eb-9a89-cbd3b4392913.png)
