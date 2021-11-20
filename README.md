@@ -1,8 +1,12 @@
 This is the labyrinth board game built into a digital version with a twist. 
 
-Below are images of the game running:
 
-This is the welcome page:
+![game1](https://user-images.githubusercontent.com/65715894/102504608-f2e0bd00-4078-11eb-96ab-839eede2dae3.gif)
+![game2](https://user-images.githubusercontent.com/65715894/102504892-481cce80-4079-11eb-90c2-15c68e0f5465.gif)
+
+
+Below are images from the game running:
+In the welcome page:
 ![image](https://user-images.githubusercontent.com/56043339/110834918-070e1200-8296-11eb-9621-de2753124210.png)
 
 The game gets a message from a website, this me be closed down in future as the website might change
@@ -25,7 +29,7 @@ This is the page after clicking the 'leaderboard' button:
 This is the page after clicking the 'new game' button and selecting a level to play:
 ![image](https://user-images.githubusercontent.com/56043339/110860619-e73a1680-82b4-11eb-8f91-6d1e380936db.png)
 
-here you and a max of 4 friends cselect your tanks and prepare to play the game
+here you and a max of 4 friends select your tanks and prepare to play the game
 
 In game imagers:
 ![image](https://user-images.githubusercontent.com/56043339/110860796-223c4a00-82b5-11eb-8aac-62bd413fcde3.png)
