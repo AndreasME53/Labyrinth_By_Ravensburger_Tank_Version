@@ -2,7 +2,7 @@ This is the labyrinth board game built into a digital version with a twist.
 
 Below are images of the game running:
 
-This is teh welcome page:
+This is the welcome page:
 ![image](https://user-images.githubusercontent.com/56043339/110834918-070e1200-8296-11eb-9621-de2753124210.png)
 
 The game gets a message from a website, this me be closed down in future as the website might change
