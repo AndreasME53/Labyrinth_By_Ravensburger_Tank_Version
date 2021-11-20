@@ -1,4 +1,5 @@
-This is the labyrinth board game built into a digital version with a twist. 
+An implementation of Labyrinth, the board game by Ravensburger. Built using Java and JavaFX
+
 
 
 ![game1](https://user-images.githubusercontent.com/65715894/102504608-f2e0bd00-4078-11eb-96ab-839eede2dae3.gif)
