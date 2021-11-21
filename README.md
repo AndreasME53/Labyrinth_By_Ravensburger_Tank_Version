@@ -8,7 +8,7 @@ below you can see videos of the game working and images with explaintion as a fo
 ![game2](https://user-images.githubusercontent.com/65715894/102504892-481cce80-4079-11eb-90c2-15c68e0f5465.gif)
 
 
-## Below are the images:
+## Simple Tutorial:
 
 | In the welcome page:   |                                           |
 |------------------------------|-------------------------------------------|
@@ -29,7 +29,7 @@ below you can see videos of the game working and images with explaintion as a fo
 
 
 
-### In game imagers:
+### In Game Imagers:
 
 ![image](https://user-images.githubusercontent.com/56043339/110860796-223c4a00-82b5-11eb-8aac-62bd413fcde3.png)
 
