@@ -1,7 +1,7 @@
 # Implementation of Labyrinth, the board game by Ravensburger. Built using Java and JavaFX
 
 This was a university java project where we were asked to digitize a board game.
-below you can see videos of the game working and images with explaintion as a form of a tutorial.
+below you can see videos of the game working and images with explaintion as a form of a tutorial. 
 
 
 ![game1](https://user-images.githubusercontent.com/65715894/102504608-f2e0bd00-4078-11eb-96ab-839eede2dae3.gif)
